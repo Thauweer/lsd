@@ -4,5 +4,9 @@
   "editor.defaultFormatter": "denoland.vscode-deno",
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
-  }
+  },
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "tsx"
+  },
+  "tailwindCSS.emmetCompletions": true
 }
